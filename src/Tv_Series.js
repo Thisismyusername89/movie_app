@@ -120,7 +120,7 @@ class Tv_Series extends Component {
                   src={`https://image.tmdb.org/t/p/w500${ele.poster_path}`}
                   alt={ele.media_type}
                 />
-                <div>{ele.title}</div>
+                <div>{ele.original_name}</div>
               </div>
             );
           })}

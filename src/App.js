@@ -45,7 +45,7 @@ function App() {
             to={"/tv_series"}
             style={{ textDecoration: "none", color: "white" }}
           >
-            Tv Series
+            TvShows
           </Link>
         </li>
 

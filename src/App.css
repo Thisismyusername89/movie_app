@@ -11,6 +11,7 @@ h1 {
 }
 .navigation {
   display: flex;
+  flex-wrap: wrap;
   margin: auto;
   justify-content: space-around;
   align-items: center;
